@@ -1,0 +1,23 @@
+{
+  "name": "isitnode",
+  "version": "1.0.0",
+  "description": "Is the running environment Node.js?",
+  "main": "isitnode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterScheffers/node-isitnode.git"
+  },
+  "keywords": [
+    "node.js",
+    "environment"
+  ],
+  "author": "pieterscheffers <npm@pieterscheffers.nl> (https://pieterscheffers.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieterScheffers/node-isitnode/issues"
+  },
+  "homepage": "https://github.com/PieterScheffers/node-isitnode#readme"
+}
