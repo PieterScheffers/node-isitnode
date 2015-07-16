@@ -1,2 +1,2 @@
 # node-isitnode
-Is the running enviroment Node.js?
+Is the running environment Node.js?
